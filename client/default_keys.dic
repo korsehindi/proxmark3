@@ -1,3 +1,8 @@
+# Some of the keys come from Middle Eastern metro 
+# cards discovered by tourists and extracted 
+# from around the Internet and underground forums.
+#
+# This file will be updated continuously.
 #
 # Mifare Default Keys
 #   -- iceman fork version --
@@ -99,6 +104,8 @@ fc00018778f7,--VästtrafikenKeyA, RKFÖstgötaTrafikenKeyA
 564c505f4d41,--VIGIK1KeyB
 ba5b895da162,--VIGIK1KeyB
 4143414F5250,
+a9b43414F585,--Tehran Railway
+1FB235AC1388,--Tehran Railway
 #
 # Data from: http://irq5.io/2013/04/13/decoding-bcard-conference-badges/
 f4a9ef2afc6d,--BCARD KeyB
@@ -193,6 +200,10 @@ EEC0626B01A1,
 8B02EF84CDF1,
 7C335FB121B5,
 B39AE17435DC,
+491CDC863104,
+A2F63A485632,
+98631ED2B229,
+19F1FFE02563,
 #
 #
 454841585443, -- key A
