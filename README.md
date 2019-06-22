@@ -9,7 +9,7 @@ This repo is based on iceman fork for proxmark3. It is dedicated to bring the mo
 Nothing says thank you as much as a donation,  https://www.patreon.com/iceman1001
 
 # KEYs
-You can download the keys [here](https://github.com/korsehindi/proxmark3/blob/master/client/default_keys.dic) They are constantly updated.
+You can download the keys [here](https://github.com/korsehindi/proxmark3/blob/master/client/default_keys.dic), They are constantly updated.
 
 ## ToC
 
